@@ -1,16 +1,13 @@
-### Hi there 👋
+<a href="https://www.linkedin.com/in/pogacean-bogdan-14b312146/">
+  <img align="left" alt="Ajay's Linkdein" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+</a>
+<br />
+<img align="right" alt="GIF" src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" />
 
-<!--
-**pogadev18/pogadev18** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### I am Bogdan Pogacean
+- Ex-Basketball Player
+- Full time working as a JavaScript Software Engineer
+- Currently working on some of my cool side projects based on Web Development. Stay tuned for more cool projects on my profile
+- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+⭐️ From [PogaDev](https://github.com/pogadev18)
