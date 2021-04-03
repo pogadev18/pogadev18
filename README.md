@@ -9,5 +9,3 @@
 - Full time working as a JavaScript Software Engineer
 - Currently working on some of my cool side projects based on Web Development. Stay tuned for more cool projects on my profile
 - I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
-
-⭐️ From [PogaDev](http://www.poga-dev.com)
