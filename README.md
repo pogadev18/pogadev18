@@ -7,5 +7,4 @@
 ### I am Bogdan Pogacean
 - Ex-Basketball Player
 - Full time working as a JavaScript Software Engineer
-- Currently working on some of my cool side projects based on Web Development. Stay tuned for more cool projects on my profile
-- I'm currently looking for opportunities. I love to learn and contribute in any and every possible way.
+- Currently working on some Baffle.space
