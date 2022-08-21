@@ -7,4 +7,3 @@
 ### I am Bogdan Pogacean
 - Ex-Basketball Player
 - Full time working as a JavaScript Software Engineer
-- Currently working on some Baffle.space
